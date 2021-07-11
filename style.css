@@ -1,0 +1,94 @@
+
+.heading {
+    background-color: #004175;
+    color: white;
+    padding: 10px;
+    border-bottom: 2px solid  #89DEEF;
+}
+
+
+.dogphoto{
+    height: 200px;
+    width: 200px;
+    
+
+   
+}
+
+span {
+    background: #89DEEF;
+    padding: 5px 5px;
+    border-radius: 7px;
+    
+}
+
+
+
+.dogs1{
+    
+    display: flex;
+    
+    width: 300px;
+
+}
+
+.dogs2{
+    display: flex;
+
+    width: 300px;
+}
+
+.dogs3{
+    display: flex;
+
+    width: 300px;
+}
+
+
+
+.footer1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    
+    background-image: url("/Users/brianharrison/momentum-projects/build-a-dog-adoption-website-brianharrison3/starter_files/images/donate.jpg");
+
+}
+
+.footer2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    color: white;
+    font-size: 25px;
+    background-size: cover;
+    background-image: url(/Users/brianharrison/momentum-projects/build-a-dog-adoption-website-brianharrison3/starter_files/images/volunteer.jpg);
+}
+
+
+.footer3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    
+    background-image: url(/Users/brianharrison/momentum-projects/build-a-dog-adoption-website-brianharrison3/starter_files/images/location.png);
+}
+
+.wholefooter{
+    display: flex;
+    
+}
+
+
