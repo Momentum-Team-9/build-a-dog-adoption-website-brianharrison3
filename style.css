@@ -59,8 +59,15 @@ span {
     width: 100%;
     height: 250px;
     background-size: cover;
+    background: 
+    linear-gradient(
+        rgba(166,169,240, .45),
+        rgba(166,169,240, .45)
+
+    )
+    , url(starter_files/images/donate.jpg);
     
-    background-image: url("/Users/brianharrison/momentum-projects/build-a-dog-adoption-website-brianharrison3/starter_files/images/donate.jpg");
+   
 
 }
 
@@ -73,7 +80,14 @@ span {
     color: white;
     font-size: 25px;
     background-size: cover;
-    background-image: url(/Users/brianharrison/momentum-projects/build-a-dog-adoption-website-brianharrison3/starter_files/images/volunteer.jpg);
+    background: 
+    linear-gradient(
+        rgba(166,169,240, .45),
+        rgba(166,169,240, .45)
+
+    )
+   , url(starter_files/images/volunteer.jpg);
+   
 }
 
 
@@ -87,8 +101,13 @@ span {
     height: 250px;
     background-size: cover;
     
-    
-    background-image: url(/Users/brianharrison/momentum-projects/build-a-dog-adoption-website-brianharrison3/starter_files/images/location.png);
+    background: 
+    linear-gradient(
+        rgba(166,169,240, .45),
+        rgba(166,169,240, .45)
+
+    )
+    , url(starter_files/images/location.png);
 }
 
 .wholefooter{
